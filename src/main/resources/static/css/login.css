@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #263D51;
+    border-bottom: 5px solid #FFD600;
+
+}
+footer{
+    background-color: #263D51;
+}
+.col {
+    background: rgba(1, 81, 118, 0.9);
+    padding: 5%;
+    color: white;
+    border-radius: 20px;
+}
+ body{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("https://cdn.discordapp.com/attachments/864956716525027419/870067999044939776/1.png");
+}
+ .agrandar{
+     height: 130px;
+ }

@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #263D51;
+    border-bottom: 5px solid #FFD600;
+}
+body{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("https://cdn.discordapp.com/attachments/852732538145472533/872194038957219860/wallpaperflare.com_wallpaper.jpg");
+}
+footer{
+    background-color: #263D51;
+}
+
+.bordeado{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    margin: 30px;
+
+}

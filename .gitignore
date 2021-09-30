@@ -1,0 +1,50 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+src/main/resources/static/archivos/**
+src/main/resources/static/archivos/1/1/JavaExams-Subscriptions.png
+src/main/resources/static/archivos/1/2/feedbacks/mia.jpg
+src/main/resources/static/archivos/1/2/feedbacks/unknown.png
+src/main/resources/static/archivos/1/2/istockphoto.jpg
+src/main/resources/static/archivos/1/2/mia.jpg
+src/main/resources/static/archivos/1/2/Screenshot_2.png
+src/main/resources/static/archivos/1/perfil/logov1234.png
+src/main/resources/static/archivos/2/perfil/mia.jpg
+src/main/resources/static/archivos/2/4/feedbacks/logov1234 (1).png
+src/main/resources/static/archivos/6/1/istockphoto.jpg
+src/main/resources/static/archivos/logos/iconoSuperMaestro.png
+src/main/resources/static/archivos/6/2/istockphoto.jpg
+src/main/resources/static/archivos/logos/SM.png
+img/1/2/nelson.jpeg
+img/2/perfil/ManyToMany.png
+img/1/perfil/bodoque.jpg
